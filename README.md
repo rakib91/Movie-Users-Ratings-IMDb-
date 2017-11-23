@@ -1,0 +1,2 @@
+# Movie-Users-Ratings-IMDb-
+This document is for explaining the perspectives of the attributes of the data set and analyzing them to predict the nature of the movie and helping the viewers to choose the right movie to watch. Besides these will also help in the predictions of the changes of the movie rating and the having the ideas over different types and kinds of movies. Overall, it can help the viewers / watchers actually, related such types of communities for choosing movies on their own choice.
